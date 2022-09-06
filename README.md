@@ -2,7 +2,7 @@
 
 - :rocket: Júnior web developer and future full stack focused in solutions to blockchain.
 
-- :computer: I'm build aplications web with  **React.JS, TypeScript, StyledComponents, JavaScript, CSS and HTML **
+- :computer: I'm build aplications web with  **React.JS, TypeScript, StyledComponents, JavaScript, CSS and HTML**
 
 - ⚡ It just doesn't solve those who give up
 
