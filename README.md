@@ -25,14 +25,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<--!
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="350em" height="350em" src="https://github-readme-stats.vercel.app/api?username=njeronimo1&show_icons=true&theme=vision-friendly-dark" alt="Nicolas Jerônimo stats"/>
-<img width="350em" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njeronimo1&layout=compact&theme=vision-friendly-dark" alt="Nicolas Jerônimo most languages"/>
-</p>
--->
 <br>
 
 
