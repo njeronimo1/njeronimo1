@@ -10,7 +10,7 @@
 
 
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -30,8 +30,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=njeronimo1&show_icons=true&theme=vision-friendly-dark" alt="Nicolas Jerônimo stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njeronimo1&layout=compact&theme=vision-friendly-dark" alt="Nicolas Jerônimo most languages"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=njeronimo1&show_icons=true&theme=vision-friendly-dark" alt="Nicolas Jerônimo stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njeronimo1&layout=compact&theme=vision-friendly-dark" alt="Nicolas Jerônimo most languages"/>
 </p>
 
 
