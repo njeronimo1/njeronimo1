@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nicolas Jerônimo</h1>
 
-- :rocket: Júnior web developer and future full stack focused in solutions to blockchain.
+- :rocket: Web developer and future full stack focused in solutions to blockchain.
 
 - :computer: I'm build aplications web with  **React.JS, TypeScript, StyledComponents, JavaScript, CSS and HTML**
 
