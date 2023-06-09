@@ -6,7 +6,7 @@
 
 - ⚡ It just doesn't solve those who give up
 
-- 👨‍💻 More at [njeronimo.dev](https://portfolio-njeronimo.netlify.app/)
+
 
 
 
