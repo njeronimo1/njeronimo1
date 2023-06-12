@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## Contact
+## Contato
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/njeronimo23/" target="_blank">
