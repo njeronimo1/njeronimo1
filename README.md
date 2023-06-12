@@ -1,10 +1,10 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nicolas Jerônimo</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Nicolas Jerônimo</h1>
 
-- :rocket: Web developer and future full stack focused in solutions to blockchain.
+- :rocket: Desenvolvedor front-end.
 
-- :computer: I'm build aplications web with  **React.JS, TypeScript, StyledComponents, JavaScript, CSS and HTML**
+- :computer: Eu crio aplicações web responsivas com  **React.JS, Next.JS, TypeScript, StyledComponents, ChakraUi, JavaScript, CSS/SASS e HTML**
 
-- ⚡ It just doesn't solve those who give up
+- ⚡ A vitória não existe somente para quem desiste!
 
 
 
@@ -12,7 +12,7 @@
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Especialidades:
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Nextjs](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=nextjs)&nbsp;
